@@ -1,2 +1,1 @@
-Objective: Practice Git branching and merging 
-Modification in main branch. 
+"This is a Git practice project." 
